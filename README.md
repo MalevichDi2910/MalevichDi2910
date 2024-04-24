@@ -5,7 +5,7 @@
 <h2 align="center">Frontend Developer</h2>
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" min-width="450px" max-width="450px" width="450px" align="right" alt="codding"/>
    
-Thank you for visiting my profile! I'm excited to have you here. This is where I showcase my web development projects and share the corresponding source code. My aim is to create code that is clean, well-structured, and easy to scale. I greatly appreciate any ideas or suggestions you may have regarding my projects. I'm always open to discussions and feedback, so please feel free to share your thoughts. Thank you for taking the time to explore my profile!
+Thanks for stopping by my page! I'm thrilled you're here. Here's where I display my web development endeavors. My goal? Crafting code that's neat, organized, and primed for expansion. I greatly appreciate any ideas or suggestions you may have regarding my projects. I'm always open to discussions and feedback, so please feel free to share your thoughts. Thank you for taking the time to explore my profile!
 
 * 🌍  I'm based in Alexandria, Egypt
 * 🖥️  See my portfolio at [my portfolio website](https://malevichdi2910.github.io/portfolio/)
@@ -29,7 +29,6 @@ Thank you for visiting my profile! I'm excited to have you here. This is where I
 ![ReactRouterDom](https://img.shields.io/badge/React_Router_Dom-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 ![ReactHookForm](https://img.shields.io/badge/React_Hook_Form-081229?style=for-the-badge&logo=react-hook-form&logoColor=ec5990)
-![Jest](https://img.shields.io/badge/Jest-E4605E?style=for-the-badge&logo=jest&logoColor=white)
 <hr>
 
 ### 🛠 Tools:
@@ -49,3 +48,6 @@ Thank you for visiting my profile! I'm excited to have you here. This is where I
 
 ### Socials
 <p align="left"> <a href="https://t.me/maldi2910" target="_blank" rel="noreferrer"><img src="https://logohistory.net/wp-content/uploads/2022/10/Telegram-logo.png" width="45" height="35" /></a> <a href="https://www.linkedin.com/in/diana-m-093620225/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="35" height="35" /></a></p>
+<hr>
+
+![codewars](https://www.codewars.com/users/MalevichDi/badges/large)
